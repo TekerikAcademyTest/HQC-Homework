@@ -1,0 +1,6 @@
+C:\Users\EnikA\Desktop\telerik presentations\C#\homeworks\ConditionalStatements\Solution1\7.GreatestNumber\bin\Debug\7.GreatestNumber.exe.config
+C:\Users\EnikA\Desktop\telerik presentations\C#\homeworks\ConditionalStatements\Solution1\7.GreatestNumber\bin\Debug\7.GreatestNumber.exe
+C:\Users\EnikA\Desktop\telerik presentations\C#\homeworks\ConditionalStatements\Solution1\7.GreatestNumber\bin\Debug\7.GreatestNumber.pdb
+C:\Users\EnikA\Desktop\telerik presentations\C#\homeworks\ConditionalStatements\Solution1\7.GreatestNumber\obj\Debug\7.GreatestNumber.csprojResolveAssemblyReference.cache
+C:\Users\EnikA\Desktop\telerik presentations\C#\homeworks\ConditionalStatements\Solution1\7.GreatestNumber\obj\Debug\7.GreatestNumber.exe
+C:\Users\EnikA\Desktop\telerik presentations\C#\homeworks\ConditionalStatements\Solution1\7.GreatestNumber\obj\Debug\7.GreatestNumber.pdb

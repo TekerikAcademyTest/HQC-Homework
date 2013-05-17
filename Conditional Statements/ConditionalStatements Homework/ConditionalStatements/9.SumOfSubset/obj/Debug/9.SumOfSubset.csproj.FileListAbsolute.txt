@@ -1,0 +1,9 @@
+C:\Users\EnikA\Desktop\telerik presentations\C#\homeworks\ConditionalStatements\Solution1\9.SumOfSubset\bin\Debug\9.SumOfSubset.exe.config
+C:\Users\EnikA\Desktop\telerik presentations\C#\homeworks\ConditionalStatements\Solution1\9.SumOfSubset\bin\Debug\9.SumOfSubset.exe
+C:\Users\EnikA\Desktop\telerik presentations\C#\homeworks\ConditionalStatements\Solution1\9.SumOfSubset\bin\Debug\9.SumOfSubset.pdb
+C:\Users\EnikA\Desktop\telerik presentations\C#\homeworks\ConditionalStatements\Solution1\9.SumOfSubset\obj\Debug\9.SumOfSubset.csprojResolveAssemblyReference.cache
+C:\Users\EnikA\Desktop\telerik presentations\C#\homeworks\ConditionalStatements\Solution1\9.SumOfSubset\obj\Debug\9.SumOfSubset.exe
+C:\Users\EnikA\Desktop\telerik presentations\C#\homeworks\ConditionalStatements\Solution1\9.SumOfSubset\obj\Debug\9.SumOfSubset.pdb
+C:\Users\EnikA\Desktop\telerik presentations\C#\homeworks\ConditionalStatements\ConditionalStatements\9.SumOfSubset\bin\Debug\9.SumOfSubset.exe.config
+C:\Users\EnikA\Desktop\telerik presentations\C#\homeworks\ConditionalStatements\ConditionalStatements\9.SumOfSubset\obj\Debug\9.SumOfSubset.exe
+C:\Users\EnikA\Desktop\telerik presentations\C#\homeworks\ConditionalStatements\ConditionalStatements\9.SumOfSubset\obj\Debug\9.SumOfSubset.pdb

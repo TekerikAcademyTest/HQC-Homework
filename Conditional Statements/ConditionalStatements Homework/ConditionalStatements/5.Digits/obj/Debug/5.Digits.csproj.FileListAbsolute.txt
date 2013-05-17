@@ -1,0 +1,6 @@
+C:\Users\EnikA\Desktop\telerik presentations\C#\homeworks\ConditionalStatements\Solution1\5.Digits\bin\Debug\5.Digits.exe.config
+C:\Users\EnikA\Desktop\telerik presentations\C#\homeworks\ConditionalStatements\Solution1\5.Digits\bin\Debug\5.Digits.exe
+C:\Users\EnikA\Desktop\telerik presentations\C#\homeworks\ConditionalStatements\Solution1\5.Digits\bin\Debug\5.Digits.pdb
+C:\Users\EnikA\Desktop\telerik presentations\C#\homeworks\ConditionalStatements\Solution1\5.Digits\obj\Debug\5.Digits.csprojResolveAssemblyReference.cache
+C:\Users\EnikA\Desktop\telerik presentations\C#\homeworks\ConditionalStatements\Solution1\5.Digits\obj\Debug\5.Digits.exe
+C:\Users\EnikA\Desktop\telerik presentations\C#\homeworks\ConditionalStatements\Solution1\5.Digits\obj\Debug\5.Digits.pdb

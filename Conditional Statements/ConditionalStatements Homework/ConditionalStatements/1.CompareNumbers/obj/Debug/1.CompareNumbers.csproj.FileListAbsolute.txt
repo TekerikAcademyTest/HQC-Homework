@@ -1,0 +1,9 @@
+C:\Users\EnikA\Desktop\telerik presentations\C#\homeworks\ConditionalStatements\Solution1\1.CompareNumbers\bin\Debug\1.CompareNumbers.exe.config
+C:\Users\EnikA\Desktop\telerik presentations\C#\homeworks\ConditionalStatements\Solution1\1.CompareNumbers\bin\Debug\1.CompareNumbers.exe
+C:\Users\EnikA\Desktop\telerik presentations\C#\homeworks\ConditionalStatements\Solution1\1.CompareNumbers\bin\Debug\1.CompareNumbers.pdb
+C:\Users\EnikA\Desktop\telerik presentations\C#\homeworks\ConditionalStatements\Solution1\1.CompareNumbers\obj\Debug\1.CompareNumbers.csprojResolveAssemblyReference.cache
+C:\Users\EnikA\Desktop\telerik presentations\C#\homeworks\ConditionalStatements\Solution1\1.CompareNumbers\obj\Debug\1.CompareNumbers.exe
+C:\Users\EnikA\Desktop\telerik presentations\C#\homeworks\ConditionalStatements\Solution1\1.CompareNumbers\obj\Debug\1.CompareNumbers.pdb
+C:\Users\EnikA\Desktop\telerik presentations\C#\homeworks\ConditionalStatements\ConditionalStatements\1.CompareNumbers\bin\Debug\1.CompareNumbers.exe.config
+C:\Users\EnikA\Desktop\telerik presentations\C#\homeworks\ConditionalStatements\ConditionalStatements\1.CompareNumbers\obj\Debug\1.CompareNumbers.exe
+C:\Users\EnikA\Desktop\telerik presentations\C#\homeworks\ConditionalStatements\ConditionalStatements\1.CompareNumbers\obj\Debug\1.CompareNumbers.pdb

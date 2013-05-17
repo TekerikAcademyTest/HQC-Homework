@@ -1,0 +1,6 @@
+C:\Users\EnikA\Desktop\telerik presentations\C#\homeworks\ConditionalStatements\Solution1\3.MaxNumber\bin\Debug\3.MaxNumber.exe.config
+C:\Users\EnikA\Desktop\telerik presentations\C#\homeworks\ConditionalStatements\Solution1\3.MaxNumber\bin\Debug\3.MaxNumber.exe
+C:\Users\EnikA\Desktop\telerik presentations\C#\homeworks\ConditionalStatements\Solution1\3.MaxNumber\bin\Debug\3.MaxNumber.pdb
+C:\Users\EnikA\Desktop\telerik presentations\C#\homeworks\ConditionalStatements\Solution1\3.MaxNumber\obj\Debug\3.MaxNumber.exe
+C:\Users\EnikA\Desktop\telerik presentations\C#\homeworks\ConditionalStatements\Solution1\3.MaxNumber\obj\Debug\3.MaxNumber.pdb
+C:\Users\EnikA\Desktop\telerik presentations\C#\homeworks\ConditionalStatements\Solution1\3.MaxNumber\obj\Debug\3.MaxNumber.csprojResolveAssemblyReference.cache

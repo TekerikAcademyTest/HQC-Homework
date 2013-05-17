@@ -1,0 +1,6 @@
+C:\Users\EnikA\Desktop\telerik presentations\C#\homeworks\ConditionalStatements\Solution1\8.GetType\bin\Debug\8.GetType.exe.config
+C:\Users\EnikA\Desktop\telerik presentations\C#\homeworks\ConditionalStatements\Solution1\8.GetType\bin\Debug\8.GetType.exe
+C:\Users\EnikA\Desktop\telerik presentations\C#\homeworks\ConditionalStatements\Solution1\8.GetType\bin\Debug\8.GetType.pdb
+C:\Users\EnikA\Desktop\telerik presentations\C#\homeworks\ConditionalStatements\Solution1\8.GetType\obj\Debug\8.GetType.exe
+C:\Users\EnikA\Desktop\telerik presentations\C#\homeworks\ConditionalStatements\Solution1\8.GetType\obj\Debug\8.GetType.pdb
+C:\Users\EnikA\Desktop\telerik presentations\C#\homeworks\ConditionalStatements\Solution1\8.GetType\obj\Debug\8.GetType.csprojResolveAssemblyReference.cache

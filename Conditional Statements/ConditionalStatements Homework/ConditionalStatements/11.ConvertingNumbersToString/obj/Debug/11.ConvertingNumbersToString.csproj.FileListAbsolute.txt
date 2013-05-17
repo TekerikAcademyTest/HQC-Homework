@@ -1,0 +1,6 @@
+C:\Users\EnikA\Desktop\telerik presentations\C#\homeworks\ConditionalStatements\Solution1\11.ConvertingNumbersToString\bin\Debug\11.ConvertingNumbersToString.exe.config
+C:\Users\EnikA\Desktop\telerik presentations\C#\homeworks\ConditionalStatements\Solution1\11.ConvertingNumbersToString\bin\Debug\11.ConvertingNumbersToString.exe
+C:\Users\EnikA\Desktop\telerik presentations\C#\homeworks\ConditionalStatements\Solution1\11.ConvertingNumbersToString\bin\Debug\11.ConvertingNumbersToString.pdb
+C:\Users\EnikA\Desktop\telerik presentations\C#\homeworks\ConditionalStatements\Solution1\11.ConvertingNumbersToString\obj\Debug\11.ConvertingNumbersToString.csprojResolveAssemblyReference.cache
+C:\Users\EnikA\Desktop\telerik presentations\C#\homeworks\ConditionalStatements\Solution1\11.ConvertingNumbersToString\obj\Debug\11.ConvertingNumbersToString.exe
+C:\Users\EnikA\Desktop\telerik presentations\C#\homeworks\ConditionalStatements\Solution1\11.ConvertingNumbersToString\obj\Debug\11.ConvertingNumbersToString.pdb
